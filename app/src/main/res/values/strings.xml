@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cryptocurrency Quiz App</string>
+    <string name="quiz_title">How much do you know about crypto?</string>
+    <string name="string_question1"><b>1.</b> Who created Bitcoin?</string>
+    <string name="string_question2"><b>2.</b> What is the current market cap of all crypto assets?</string>
+    <string name="string_answer2a">1 Billion</string>
+    <string name="string_answer2b">100 Billions</string>
+    <string name="string_answer2c">1 Trillion</string>
+    <string name="string_question3"><b>3.</b> What\'s the name of this cryptocurrency?</string>
+    <string name="string_question4"><b>4.</b> Is Ethereum the second largest cryptocurrency?</string>
+    <string name="string_answer4yes">yes</string>
+    <string name="string_answer4no">no</string>
+    <string name="string_question5"><b>5.</b> What are the 2 most exciting projects in Crypto space?</string>
+    <string name="string_answer5a">DeFi</string>
+    <string name="string_answer5b">Lightning Network</string>
+    <string name="string_answer5c">Ethereum 2.0.</string>
+    <string name="submit">submit</string>
+    <string name="trueAnswer3">Ethereum</string>
+    <string name="trueAnswer1a">Satoshi Nakamoto</string>
+    <string name="trueAnswer1b">Satoshi</string>
+    <string name="textForToast1a">"You got "</string>
+    <string name="textForToast1b">"/5 points on the quiz. "</string>
+    <string name="textForToast20">I suggest you learn more about this industry and then solve this quiz again.</string>
+    <string name="textForToast21">Could have been better but don\'t worry. Wish you more luck next time.</string>
+    <string name="textForToast22">Good job! Keep trying till you reach 5/5.</string>
+    <string name="textForToast25">Wow!! That\'s not a small feat to accomplish.</string>
+</resources>
+
