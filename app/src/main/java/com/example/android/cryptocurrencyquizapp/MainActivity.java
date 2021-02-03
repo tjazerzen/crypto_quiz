@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     /*
      * totalScore will track the total score of the quiz.
      */
-    int totalScore = 10;
+    int totalScore = 0;
 
     /*
      * Functions that tell whether the answers are correct or not.
